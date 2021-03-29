@@ -1,0 +1,102 @@
+*
+{
+	padding:0px;
+	margin: 0px;
+}
+
+
+
+body
+{
+	background:linear-gradient(270deg,#FB00FF,#03D8DE);
+	min-width: 100vw;
+	min-height: 100vh;
+	background-repeat: no-repeat;
+	color: gray;
+}
+
+
+
+
+
+
+
+form
+{
+	width: 400px;
+	margin: 10px auto;
+	background-color: white;
+	border-radius: 5px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+h1
+{
+	text-align: center;
+	color:black;
+}
+.f
+{
+	margin-left: 10%;
+}
+input[type='password'],input[type='text']
+{
+	width: 80%;
+	display: block;
+	height: 35px;
+	border-width: 0px 0px 2px 0px;
+	text-indent: 30px;
+	margin: 10px auto;
+	background-color: unset;
+	border-color: lightgray;
+}
+
+.i
+{
+	display: block;
+	margin-left: 10%;
+	position: relative;
+	top:35px;
+	left: 10px;
+}
+.three
+{
+    display: block;
+	text-align: right;
+	margin-right: 10%;
+}
+
+input[type='submit']
+{
+	width: 80%;
+	display: block;
+	height: 35px;
+	border-style: none;
+	border-radius: 10px;
+	margin: 10px auto;
+	background:linear-gradient(270deg,#FB00FF,#03D8DE);
+}
+span
+{
+	text-align: center;
+	display: block;
+	margin-top:30px;
+	margin-bottom: 15px;
+}
+.icons
+{
+	
+	text-align: center;
+	margin-bottom:90px;
+	color: black;
+	font-size: 25px;
+}
+
+
+.fs
+{
+	text-align: center;
+	display: block;
+	margin-top:10px;
+
+}
